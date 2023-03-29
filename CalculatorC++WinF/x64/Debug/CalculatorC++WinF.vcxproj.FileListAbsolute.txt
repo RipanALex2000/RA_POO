@@ -1,0 +1,5 @@
+D:\labs\POO\CalculatorC++WinF\x64\Debug\CalculatorC++WinF.vcxproj.AssemblyReference.cache
+D:\labs\POO\CalculatorC++WinF\x64\Debug\CalculatorC++WinF.vcxproj.SuggestedBindingRedirects.cache
+D:\labs\POO\CalculatorC++WinF\x64\Debug\CalculatorC__WinF.Form1.resources
+D:\labs\POO\CalculatorC++WinF\x64\Debug\CalculatorC++WinF.vcxproj.GenerateResource.cache
+D:\labs\POO\CalculatorC++WinF\x64\Debug\CalculatorC++WinF.exe

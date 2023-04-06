@@ -1,0 +1,6 @@
+﻿  BankAccount.cpp
+D:\labs\POO\L5\BankAccount.h(3,11): warning C4570: 'BankAccount': is not explicitly declared as abstract but has abstract functions
+D:\labs\POO\L5\BankAccount.h(3,11): message : 'bool BankAccount::CanDebit(double)': is abstract
+D:\labs\POO\L5\BankAccount.h(7,15): message : see declaration of 'BankAccount::CanDebit'
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  L5.vcxproj -> D:\labs\POO\L5\x64\Debug\L5.exe

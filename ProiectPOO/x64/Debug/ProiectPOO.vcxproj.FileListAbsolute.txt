@@ -1,3 +1,0 @@
-D:\labs\POO\ProiectPOO\x64\Debug\ProiectPOO.vcxproj.AssemblyReference.cache
-D:\labs\POO\ProiectPOO\x64\Debug\ProiectPOO.vcxproj.SuggestedBindingRedirects.cache
-D:\labs\POO\ProiectPOO\x64\Debug\ProiectPOO.exe
